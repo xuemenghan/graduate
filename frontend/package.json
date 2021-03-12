@@ -24,7 +24,7 @@
     "html2canvas": "^1.0.0-alpha.12",
     "jquery": "^3.3.1",
     "js-cookie": "^2.2.0",
-    "jspdf": "^1.4.1",
+    "jspdf": "^2.3.1",
     "laydate": "^1.0.7",
     "layer": "^0.1.0",
     "layui-layer": "^1.0.9",
